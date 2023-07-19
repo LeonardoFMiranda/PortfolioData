@@ -39,23 +39,18 @@
   text-decoration: none;
 }
 .information .job::before {
-  background-image: url(/assets/images/icons/Job-icon.svg);
+  background-image: url('../images/icons/Job-icon.svg');
 }
 .information .location::before {
-  background-image: url(/assets/images/icons/location-icon.svg);
+  background-image: url('../images/icons/location-icon.svg');
 }
 .information .number::before {
-  background-image: url(/assets/images/icons/number-icon.svg);
+  background-image: url('../images/icons/number-icon.svg');
 }
 .information .email::before {
-  background-image: url(/assets/images/icons/email-icon.svg);
+  background-image: url('../images/icons/email-icon.svg');
 }
-.information .github__icon::before {
-  background-image: url(/assets/images/icons/MiniGitHub-Icon.png);
-}
-.information .linkedin::before {
-  background-image: url(/assets/images/icons/MiniLinkedin-icon.png);
-}
+
 
 @media screen and (min-width: 768px) {
   .header {
