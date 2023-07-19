@@ -31,6 +31,25 @@
       }
       
     ],
+    "badge": [
+      {
+        "name": "Html",
+        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/HtmlBadge.png"
+      },
+      {
+        "name": "Css",
+        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/CssBadge.png"
+      },
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/JsBadge.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/reactBadge.png"
+      }
+    ],
+    
     "softSkills": [
       "Rápido Aprendizado",
       "Trabalho em equipe",
