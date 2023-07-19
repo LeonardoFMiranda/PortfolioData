@@ -1,0 +1,28 @@
+.educacao__title{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.educacao__badge{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: center;
+}
+.badge {
+    max-width: 120px;
+    max-height: 120px;
+}
+.badge img{
+    width: 100%;
+}
+.educacao__list{
+    padding: 40px;
+}
+.educacao__list-a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.5rem;
+}
+.educacao__item{
+    margin-bottom: 30px;
+}
