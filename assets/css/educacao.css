@@ -26,3 +26,6 @@
 .educacao__item{
     margin-bottom: 30px;
 }
+.educacao__badge li {
+    list-style: none;
+}
