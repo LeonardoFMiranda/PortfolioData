@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
   font-family: "Open Sans", sans-serif;
-  list-style: none;
+
 }
 body {
   background-color: #000;
@@ -16,7 +16,7 @@ body {
 
 .main::before {
   content: "";
-  background-image: url(/assets/images/background.svg);
+  background-image: url('../images/background.svg');
   background-repeat: no-repeat;
   background-size: contain;
   width: 140vw;
@@ -29,7 +29,7 @@ body {
 }
 .main::after {
   content: "";
-  background-image: url(/assets/images/background-bottom.svg);
+  background-image: url('../images/background-bottom.svg');
   background-repeat: no-repeat;
   background-size: contain;
   width: 140vw;
