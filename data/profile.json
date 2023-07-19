@@ -43,15 +43,43 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex",
+      "url": "https://github.com/LeonardoFMiranda/Pokedex",
+      "pages":"https://leonardofmiranda.github.io/Pokedex/",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "HBO-Replica",
+      "url": "https://github.com/LeonardoFMiranda/HBO-Replica",
+      "pages":"https://leonardofmiranda.github.io/HBO-Replica/",
+      "github": true
+    },
+    {
+      "name": "Cafezim Virtual",
+      "url": "https://github.com/LeonardoFMiranda/CafezimVirtual",
+      "pages":"https://leonardofmiranda.github.io/CafezimVirtual/",
+      "github": true
+    },
+    {
+      "name": "Discord Layout",
+      "url": "https://github.com/LeonardoFMiranda/Discord-Layout",
+      "pages":"https://leonardofmiranda.github.io/Discord-Layout/",
+      "github": true
+    },
+    {
+      "name": "Youtube-homepage",
+      "url": "https://github.com/LeonardoFMiranda/Youtube-homepage",
+      "pages":"https://leonardofmiranda.github.io/Youtube-homepage/",
+      "github": true
+    },
+    {
+      "name": "Youtube Video-Page",
+      "url": "https://github.com/LeonardoFMiranda/Youtube-Video-Page",
+      "pages":"https://leonardofmiranda.github.io/Youtube-Video-Page/",
       "github": true
     }
+    
+    
   ],
   "professionalExperience": [
     {
