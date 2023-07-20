@@ -46,7 +46,7 @@ Nesta seção, você encontrará uma lista dos meus principais projetos hospedad
 
 ## Contato
 
-Caso queira entrar em contato, sinta-se à vontade para me enviar uma mensagem através do meu e-mail: <leomiranda1997@gmail.com> ou através da rede sociai listada abaixo.
+Caso queira entrar em contato, sinta-se à vontade para me enviar uma mensagem através do meu e-mail: <leomiranda1997@gmail.com> ou através da rede social listada abaixo.
 
 - [LinkedIn](https://www.linkedin.com/in/leonardo-f-miranda/)
 
