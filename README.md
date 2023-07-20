@@ -10,7 +10,7 @@
   <a href="#idiomas">Idiomas</a> •
   <a href="#educacao">Educação</a> •
   <a href="#portfolio">Portfolio</a> •
-  <a href="https://leonardofmiranda.github.io/Portfolio/">Visualizar Portfolio</a> •
+  <a href="https://leonardofmiranda.github.io/Portfolio/" target="_blank">Visualizar Portfolio</a> •
   
 </p>
 
