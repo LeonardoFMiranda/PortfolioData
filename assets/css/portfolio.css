@@ -1,6 +1,6 @@
 .portfolio {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+  display: flex;
+  flex-direction: column;
   justify-content: flex-start;
   width: 100%;
   margin: 0;
@@ -45,9 +45,18 @@
     
 }
 
+.links{
+  word-wrap: break-word;
+}
+
 @media screen and (min-width: 768px) {
     .portfolio__content{
         display: flex;
         flex-direction: row;
+    }
+    .portfolio {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+
     }
   }
