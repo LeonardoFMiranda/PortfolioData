@@ -1,8 +1,5 @@
 # Meu Portfólio
 
-<p align="center">
-  <img src="/assets//images/readmeImg/portfolioLogo.png" alt="Meu Portfólio">
-</p>
 
 <p align="center">
   <strong>Seja bem-vindo(a) ao meu portfólio do GitHub! Aqui você encontrará informações sobre minhas habilidades, idiomas, educação e projetos. Fique à vontade para explorar e conhecer um pouco mais sobre mim.</strong>
