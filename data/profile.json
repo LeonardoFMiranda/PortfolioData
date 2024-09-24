@@ -28,6 +28,34 @@
       {
         "name": "Nodejs",
         "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/angular-original.svg"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/git-original.svg"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/java-original.svg"
+      },
+      {
+        "name": "Laravel",
+        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/laravel-original.svg"
+      },
+      {
+        "name": "Typescript",
+        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/typescript-original.svg"
+      },
+      {
+        "name": "WordPress",
+        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/wordpress-original.svg"
+      },
+      {
+        "name": "PHP",
+        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/php.png"
       }
       
     ],
