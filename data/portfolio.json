@@ -2,6 +2,7 @@
   "projects": [
     {
       "name": "HBO Réplica",
+      "description":"Réplica do HBO. Desafio da formação de Css da DIO",
       "url": "https://leonardofmiranda.github.io/HBO-Replica/",
       "githubUrl": "https://github.com/LeonardoFMiranda/HBO-Replica",
       "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/HBO-site.png",
@@ -12,6 +13,7 @@
     },
     {
       "name": "Cafezim virtual",
+      "description":"Loja de café virtual. Projeto de aprendizado da formação Css da DIO",
       "url": "https://leonardofmiranda.github.io/CafezimVirtual/",
       "githubUrl": "https://github.com/LeonardoFMiranda/CafezimVirtual",
       "image": "https://raw.githubusercontent.com/LeonardoFMiranda/CafezimVirtual/main/assets/images/readme-images/Photo1.png",
@@ -22,6 +24,7 @@
     },
     {
       "name": "Pokedex",
+      "description":"Réplica do HBO. Projeto de aprendizado da formação Javascript da DIO",
       "url": "https://leonardofmiranda.github.io/Pokedex/",
       "githubUrl": "https://github.com/LeonardoFMiranda/Pokedex",
       "image": "https://leonardofmiranda.github.io/Portfolio-React/static/media/Pokedex__Img.4c542967950e10641366.png",
