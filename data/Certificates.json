@@ -2,31 +2,37 @@
   {
     "name":"Formação: WordPress: crie sites do zero",
     "url":"https://cursos.alura.com.br/degree/certificate/e9a7c059-730a-4ef7-9660-787bafa03656?lang=pt_BR",
-    "education":"Alura"
+    "education":"Alura",
+    "hour":"20h"
   },
   {
     "name":"Curso: Laravel: criando uma aplicação com MVC",
     "url":"https://cursos.alura.com.br/certificate/leomiranda1997/laravel-criando-aplicacao-mvc",
-    "education":"Alura"
+    "education":"Alura",
+    "hour":"8h"
   },
   {
     "name":"Formação TypeScript Fullstack Developer",
     "url":"https://hermes.dio.me/certificates/C2652FED.pdf",
-    "education":"Digital Innovation One"
+    "education":"Digital Innovation One",
+    "hour":"44h"
   },
   {
     "name":"Formação JavaScript Developer",
     "url":"https://hermes.dio.me/certificates/73776831.pdf",
-    "education":"Digital Innovation One"
+    "education":"Digital Innovation One",
+    "hour":"39h"
   },
   {
     "name":"Formação CSS Web",
     "url":"https://hermes.dio.me/certificates/7D31C302.pdf",
-    "education":"Digital Innovation One"
+    "education":"Digital Innovation One",
+    "hour":"43h"
   },
   {
     "name":"Formação HTML Web Developer",
     "url":"https://hermes.dio.me/certificates/89EEA166.pdf",
-    "education":"Digital Innovation One"
+    "education":"Digital Innovation One",
+    "hour":"21h"
   }
 }
