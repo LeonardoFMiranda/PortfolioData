@@ -1,55 +1,35 @@
 {
   "projects": [
-      {
-        "name": "HBO Réplica",
-        "url": "https://leonardofmiranda.github.io/HBO-Replica/",
-        "github-url":"https://github.com/LeonardoFMiranda/HBO-Replica",
-        
-      },
-      {
-        "name": "Css",
-        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/css-logo.png"
-      },
-      {
-        "name": "Javascript",
-        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/js.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/nodejs.png"
-      },
-      {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/angular-original.svg"
-      },
-      {
-        "name": "Git",
-        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/git-original.svg"
-      },
-      {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/java-original.svg"
-      },
-      {
-        "name": "Laravel",
-        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/laravel-original.svg"
-      },
-      {
-        "name": "Typescript",
-        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/typescript-original.svg"
-      },
-      {
-        "name": "WordPress",
-        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/wordpress-plain.svg"
-      },
-      {
-        "name": "PHP",
-        "logo": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/php.png"
-      }
-      
-    ]
+    {
+      "name": "HBO Réplica",
+      "url": "https://leonardofmiranda.github.io/HBO-Replica/",
+      "githubUrl": "https://github.com/LeonardoFMiranda/HBO-Replica",
+      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/HBO-site.png",
+      "tech": [
+        "html",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Cafezim virtual",
+      "url": "https://leonardofmiranda.github.io/CafezimVirtual/",
+      "githubUrl": "https://github.com/LeonardoFMiranda/CafezimVirtual",
+      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/CafezimVirtual/main/assets/images/readme-images/Photo1.png",
+      "tech": [
+        "html",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Pokedex",
+      "url": "https://leonardofmiranda.github.io/Pokedex/",
+      "githubUrl": "https://github.com/LeonardoFMiranda/Pokedex",
+      "image": "https://leonardofmiranda.github.io/Portfolio-React/static/media/Pokedex__Img.4c542967950e10641366.png",
+      "tech": [
+        "html",
+        "Bootstrap",
+        "Javascript"
+      ]
+    }
+  ]
 }
