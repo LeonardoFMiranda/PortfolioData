@@ -1,6 +1,18 @@
 {
   "certificados": [
     {
+      "name": "Next.js: tour pelo Next.js",
+      "url": "https://cursos.alura.com.br/certificate/leomiranda1997/next-js-tour-next-js?lang=pt_BR",
+      "education": "Alura",
+      "hour": "10h"
+    },
+    {
+      "name": "Next.js: explorando o framework",
+      "url": "https://cursos.alura.com.br/certificate/leomiranda1997/next-js-iniciando-framework?lang=pt_BR",
+      "education": "Alura",
+      "hour": "8h"
+    },
+    {
       "name": "Formação: WordPress: crie sites do zero",
       "url": "https://cursos.alura.com.br/degree/certificate/e9a7c059-730a-4ef7-9660-787bafa03656?lang=pt_BR",
       "education": "Alura",
