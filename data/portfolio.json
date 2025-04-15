@@ -1,6 +1,21 @@
 {
   "projects": [
     {
+      "name": "Ponto Eletrônico",
+      "description":"Trabalho freelancer / Mais informações só clicar em contato",
+      "url": "",
+      "githubUrl": "",
+      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/ponto-eletronico.png",
+      "tech": [
+        "React Native",
+        "Expo",
+        "Prisma",
+        "Docker",
+        "Postgres",
+        "NodeJs",
+        "Axios",
+      ]
+    },{
       "name": "Code Connect",
       "description":"Curso de NextJs utilizando docker e Postgres",
       "url": "https://curso-next-docker.vercel.app/",
