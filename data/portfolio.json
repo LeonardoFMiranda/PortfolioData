@@ -3,8 +3,8 @@
     {
       "name": "Ponto Eletrônico",
       "description":"Trabalho freelancer. Para mais informações, clique em contato.",
-      "url": "/#contact",
-      "githubUrl": "/",
+      "url": "https://leonardomiranda-portfolio.vercel.app/#contact",
+      "githubUrl": "https://leonardomiranda-portfolio.vercel.app/#contact",
       "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/ponto-eletronico.png",
       "tech": [
         "React Native",
