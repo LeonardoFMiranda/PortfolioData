@@ -15,7 +15,8 @@
         "NodeJs",
         "Axios"
       ]
-    },{
+    },
+    {
       "name": "Code Connect",
       "description":"Curso de NextJs utilizando docker e Postgres",
       "url": "https://curso-next-docker.vercel.app/",
