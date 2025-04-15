@@ -3,7 +3,7 @@
     {
       "name": "Ponto Eletrônico",
       "description":"Trabalho freelancer. Para mais informações, clique em contato.",
-      "url": "/",
+      "url": "/#contact",
       "githubUrl": "/",
       "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/ponto-eletronico.png",
       "tech": [
