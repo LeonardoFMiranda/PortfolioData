@@ -15,17 +15,19 @@
       ]
     },
     {
-      "name": "Code Connect",
-      "description":"Curso de NextJs utilizando docker e Postgres",
-      "url": "https://curso-next-docker.vercel.app/",
-      "githubUrl": "https://github.com/LeonardoFMiranda/CursoNext-Docker",
-      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/code_connect.png",
+      "name": "Ponto Eletrônico",
+      "description":"Trabalho freelancer. Para mais informações, clique em contato.",
+      "url": "/",
+      "githubUrl": "/",
+      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/ponto-eletronico.png",
       "tech": [
-        "NextJs",
-        "React",
+        "React Native",
+        "Expo",
         "Prisma",
         "Docker",
-        "Postgres"
+        "PostgreSQL",
+        "Node.js",
+        "Axios"
       ]
     },
     {
