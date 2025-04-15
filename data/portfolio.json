@@ -17,6 +17,20 @@
       ]
     },
     {
+      "name": "Code Connect",
+      "description": "Curso prático de Next.js com Docker e PostgreSQL.",
+      "url": "https://curso-next-docker.vercel.app/",
+      "githubUrl": "https://github.com/LeonardoFMiranda/CursoNext-Docker",
+      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/code_connect.png",
+      "tech": [
+        "Next.js",
+        "React",
+        "Prisma",
+        "Docker",
+        "PostgreSQL"
+      ]
+    },
+    {
       "name": "HBO Réplica",
       "description":"Réplica do HBO. Desafio da formação de Css da DIO",
       "url": "https://leonardofmiranda.github.io/HBO-Replica/",
