@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "Ponto Eletrônico",
-      "description":"Trabalho freelancer / Mais informações só clicar em contato",
+      "description": "Trabalho freelancer. Para mais informações, clique em contato.",
       "url": "",
       "githubUrl": "",
       "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/ponto-eletronico.png",
@@ -11,57 +11,57 @@
         "Expo",
         "Prisma",
         "Docker",
-        "Postgres",
-        "NodeJs",
+        "PostgreSQL",
+        "Node.js",
         "Axios"
       ]
     },
     {
       "name": "Code Connect",
-      "description":"Curso de NextJs utilizando docker e Postgres",
+      "description": "Curso prático de Next.js com Docker e PostgreSQL.",
       "url": "https://curso-next-docker.vercel.app/",
       "githubUrl": "https://github.com/LeonardoFMiranda/CursoNext-Docker",
       "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/code_connect.png",
       "tech": [
-        "NextJs",
+        "Next.js",
         "React",
         "Prisma",
         "Docker",
-        "Postgres"
+        "PostgreSQL"
       ]
     },
     {
       "name": "HBO Réplica",
-      "description":"Réplica do HBO. Desafio da formação de Css da DIO",
+      "description": "Réplica do site da HBO. Desafio da formação CSS da DIO.",
       "url": "https://leonardofmiranda.github.io/HBO-Replica/",
       "githubUrl": "https://github.com/LeonardoFMiranda/HBO-Replica",
       "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/HBO-site.png",
       "tech": [
-        "html",
+        "HTML",
         "Bootstrap"
       ]
     },
     {
-      "name": "Cafezim virtual",
-      "description":"Loja de café virtual. Projeto de aprendizado da formação Css da DIO",
+      "name": "Cafezim Virtual",
+      "description": "Loja de café virtual. Projeto desenvolvido na formação CSS da DIO.",
       "url": "https://leonardofmiranda.github.io/CafezimVirtual/",
       "githubUrl": "https://github.com/LeonardoFMiranda/CafezimVirtual",
       "image": "https://raw.githubusercontent.com/LeonardoFMiranda/CafezimVirtual/main/assets/images/readme-images/Photo1.png",
       "tech": [
-        "html",
+        "HTML",
         "Bootstrap"
       ]
     },
     {
       "name": "Pokedex",
-      "description":"Réplica do HBO. Projeto de aprendizado da formação Javascript da DIO",
+      "description": "Pokédex interativa. Projeto da formação JavaScript da DIO.",
       "url": "https://leonardofmiranda.github.io/Pokedex/",
       "githubUrl": "https://github.com/LeonardoFMiranda/Pokedex",
       "image": "https://leonardofmiranda.github.io/Portfolio-React/static/media/Pokedex__Img.4c542967950e10641366.png",
       "tech": [
-        "html",
+        "HTML",
         "Bootstrap",
-        "Javascript"
+        "JavaScript"
       ]
     }
   ]
