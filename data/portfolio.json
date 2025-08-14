@@ -1,6 +1,18 @@
 {
   "projects": [
     {
+      "name": "Leech's Company",
+      "description":"Trabalho freelancer. Para mais informações, clique em contato.",
+      "url": "https://leechscompany.vercel.app/",
+      "githubUrl": "https://leonardomiranda-portfolio.vercel.app/#contact",
+      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/LeechsCompany.png",
+      "tech": [
+        "NextJs",
+        "React",
+        "Node.js",
+      ]
+    },
+    {
       "name": "Ponto Eletrônico",
       "description":"Trabalho freelancer. Para mais informações, clique em contato.",
       "url": "https://leonardomiranda-portfolio.vercel.app/#contact",
