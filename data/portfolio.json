@@ -1,34 +1,50 @@
 {
   "projects": [
     {
-  "name": "Solara",
-  "description": "Landing page de energia solar residencial com simulador de economia, captação de leads e animações guiadas pela rolagem.",
-  "url": "https://solar-placas-brasil.vercel.app/",
-  "githubUrl": "https://github.com/LeonardoFMiranda/solar",
-  "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/solara-hero.jpg",
-  "tech": [
-    "NextJs",
-    "React",
-    "TypeScript",
-    "Tailwind",
-    "Motion",
-    "Zod"
-  ]
-},{
-  "name": "Tutor de Concursos",
-  "description": "Plataforma de estudos para concursos públicos que usa IA para gerar questões inéditas no estilo de bancas como CEBRASPE e FGV, com tutor virtual para explicar o gabarito e dashboard de evolução.",
-  "url": "https://tutor-concursos-six.vercel.app",
-  "githubUrl": "https://github.com/LeonardoFMiranda/tutor-concursos",
-  "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/tutor-concurso.jpg",
-  "tech": [
-    "NextJs",
-    "React",
-    "TypeScript",
-    "Tailwind",
-    "Prisma",
-    "PostgreSQL"
-  ]
-},{
+      "name": "Israela Suiane — Consórcios",
+      "description": "Landing page de alavancagem patrimonial com consórcio para a consultora Israela Suiane (Natal/RN). Mostra como uma carta de consórcio vira patrimônio e renda, com comparativos de custo e chamada para simulação personalizada.",
+      "url": "https://israelasuiane.netlify.app/",
+      "githubUrl": "https://leonardomiranda-portfolio.vercel.app/#contact",
+      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/IsraelaSuiane.png",
+      "tech": [
+        "NextJs",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "Framer Motion"
+      ]
+    },
+    {
+      "name": "Solara",
+      "description": "Landing page de energia solar residencial com simulador de economia, captação de leads e animações guiadas pela rolagem.",
+      "url": "https://solar-placas-brasil.vercel.app/",
+      "githubUrl": "https://github.com/LeonardoFMiranda/solar",
+      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/solara-hero.jpg",
+      "tech": [
+        "NextJs",
+        "React",
+        "TypeScript",
+        "Tailwind",
+        "Motion",
+        "Zod"
+      ]
+    },
+    {
+      "name": "Tutor de Concursos",
+      "description": "Plataforma de estudos para concursos públicos que usa IA para gerar questões inéditas no estilo de bancas como CEBRASPE e FGV, com tutor virtual para explicar o gabarito e dashboard de evolução.",
+      "url": "https://tutor-concursos-six.vercel.app",
+      "githubUrl": "https://github.com/LeonardoFMiranda/tutor-concursos",
+      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/tutor-concurso.jpg",
+      "tech": [
+        "NextJs",
+        "React",
+        "TypeScript",
+        "Tailwind",
+        "Prisma",
+        "PostgreSQL"
+      ]
+    },
+    {
       "name": "Leech's Company",
       "description": "Trabalho freelancer. Para mais informações, clique em contato.",
       "url": "https://leechscompany.vercel.app/",
