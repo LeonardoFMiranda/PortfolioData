@@ -1,16 +1,28 @@
 {
   "projects": [
     {
+      "name": "Tergon — Pisos Industriais",
+      "description": "Site institucional da Tergon Pisos Industriais (Indaiatuba/SP), empresa com mais de 18 anos no mercado. Apresenta os sistemas de piso (uretano, epóxi autonivelante, antiderrapante, recuperação e demarcação), estudos de caso de obras, blog e um formulário de orçamento integrado ao WhatsApp. As páginas são pré-renderizadas com SSR, o que ajuda no SEO, e têm animações de rolagem.",
+      "url": "https://tergon-site.vercel.app/",
+      "githubUrl": "https://leonardomiranda-portfolio.vercel.app/#contact",
+      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/tergon.jpg",
+      "tech": [
+        "React",
+        "Vite",
+        "GSAP"
+      ]
+    },
+    {
       "name": "Israela Suiane — Consórcios",
       "description": "Landing page de alavancagem patrimonial com consórcio para a consultora Israela Suiane (Natal/RN). Mostra como uma carta de consórcio vira patrimônio e renda, com comparativos de custo e chamada para simulação personalizada.",
       "url": "https://israelasuiane.netlify.app/",
       "githubUrl": "https://leonardomiranda-portfolio.vercel.app/#contact",
-      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/israela-suiane-landing.png",
+      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/IsraelaSuiane.png",
       "tech": [
         "NextJs",
         "React",
         "TypeScript",
-        "Tailwind",
+        "Tailwind CSS",
         "Framer Motion"
       ]
     },
