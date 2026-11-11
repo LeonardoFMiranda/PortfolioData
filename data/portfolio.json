@@ -1,6 +1,20 @@
 {
   "projects": [
     {
+  "name": "Solara",
+  "description": "Landing page de energia solar residencial com simulador de economia, captação de leads e animações guiadas pela rolagem.",
+  "url": "https://solar-placas-brasil.vercel.app/",
+  "githubUrl": "https://github.com/LeonardoFMiranda/solar",
+  "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/solara-hero.jpg",
+  "tech": [
+    "NextJs",
+    "React",
+    "TypeScript",
+    "Tailwind",
+    "Motion",
+    "Zod"
+  ]
+},{
   "name": "Tutor de Concursos",
   "description": "Plataforma de estudos para concursos públicos que usa IA para gerar questões inéditas no estilo de bancas como CEBRASPE e FGV, com tutor virtual para explicar o gabarito e dashboard de evolução.",
   "url": "https://tutor-concursos-six.vercel.app",
