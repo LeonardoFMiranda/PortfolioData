@@ -5,12 +5,12 @@
       "description": "Landing page de alavancagem patrimonial com consórcio para a consultora Israela Suiane (Natal/RN). Mostra como uma carta de consórcio vira patrimônio e renda, com comparativos de custo e chamada para simulação personalizada.",
       "url": "https://israelasuiane.netlify.app/",
       "githubUrl": "https://leonardomiranda-portfolio.vercel.app/#contact",
-      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/IsraelaSuiane.png",
+      "image": "https://raw.githubusercontent.com/LeonardoFMiranda/Portfolio/main/data/imgs/projects/israela-suiane-landing.png",
       "tech": [
         "NextJs",
         "React",
         "TypeScript",
-        "Tailwind CSS",
+        "Tailwind",
         "Framer Motion"
       ]
     },
